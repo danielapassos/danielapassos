@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dani Passos</h1>
 <h3 align="center">Building the future of Communities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielapassos&label=Profile%20views&color=0e75b6&style=flat" alt="danielapassos" /> </p>
-
-<p align="left"> <a href="https://twitter.com/danipass0s" target="blank"><img src="https://img.shields.io/twitter/follow/danipass0s?logo=twitter&style=for-the-badge" alt="danipass0s" /></a> </p>
-
 - 🔭 I’m currently working on **Livepeer**
 
 - 💬 Ask me about **web3, AI, and communities**
