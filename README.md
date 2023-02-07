@@ -25,4 +25,3 @@
 <i>Coming soon 🤓</i>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danielapassos&icon=0&color=8)](https://visitcount.itsvg.in)
