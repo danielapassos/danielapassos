@@ -2,7 +2,7 @@
 <h3 align="center">Building the future of Communities.</h3>
 
 # 💫 About Me
-🛠️ I love building and breaking things<br>🔭 I’m currently working on Livepeer<br>💬 Ask me about web3, AI, and communities<br>📫 Reach me: daniela@dnpmss.com
+🛠️ I love building and breaking things<br>🔭 I’m currently working on Swimm<br>💬 Ask me about web3, AI, and communities<br>📫 Reach me: daniela@dnpmss.com
 
 
 ## 🌐 Socials
