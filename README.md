@@ -19,8 +19,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danielapassos&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=danipass0s)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## ✍️ Hashnode
+[![danizeres.dev]](https://danizeres.dev/) 
 
 ### 🙋🏻‍♀️ Next Developer Event
 <i>Coming soon 🤓</i>
