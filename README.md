@@ -20,7 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=danielapassos&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Hashnode
-[![danizeres.dev]](https://danizeres.dev/) 
+[danizeres.dev](https://danizeres.dev/) 
 
 ### 🙋🏻‍♀️ Next Developer Event
 <i>Coming soon 🤓</i>
