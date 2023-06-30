@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dani Passos</h1>
-<h3 align="center">Building the future of Communities.</h3>
+<h4 align="center">Building the future of communities.</h4>
 
-# 💫 About Me
-🛠️ I love building and breaking things<br>💬 Ask me about web3, AI, and communities<br>📫 Reach me: daniela@dnpmss.com
+# About Me
+🛠️ I love building and breaking things<br>💬 Ask me about web3, AI, and community building<br>📫 Reach me: daniela@dnpmss.com
 
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danipassos) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/danipass0s) 
 
