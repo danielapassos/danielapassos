@@ -2,7 +2,7 @@
 <h4 align="center">Building the future of communities.</h4>
 
 # About me
-🛠️ I love building and breaking things<br>💬 Ask me about web3, AI, and community building<br>📫 Reach me: daniela@dnpmss.com
+🛠️ I love building and breaking things<br>💬 Ask me about startups, AI, and community building<br>📫 Reach me: daniela@dnpmss.com
 
 ## 🛠️ DevRel portfolio
 [danizeres.com](https://danizeres.com/) 
