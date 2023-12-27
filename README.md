@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Dani Passos</h1>
-<h4 align="center">Building the future of communities.</h4>
+<h4 align="center">Building the future of developer communities.</h4>
 
-# About me
 🛠️ DevRel Lead at [Hashnode](https://hashnode.com/)  <br>💬 Ask me about startups, productivity, AI, and community building<br>📫 Reach me: daniela@dnpmss.com
 
 ## Socials
