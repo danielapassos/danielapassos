@@ -1,11 +1,8 @@
 <h1 align="center">Hey 👋, I'm Dani Passos</h1>
 <h4 align="center">Building the future of developer communities.</h4>
 
-🛠️ Head of Developer Relations at [Hype](https://hy.pe/)  
-<br>
-💬 Ask me about startups, web3, AI, and community building
-<br>
-📫 Reach me: daniela@dnpmss.com
+🛠️ Head of Developer Relations at [Hype](https://hy.pe/)<br>💬 Ask me about startups, web3, AI, and community building
+<br>📫 Reach me: daniela@dnpmss.com
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danipassos) 
