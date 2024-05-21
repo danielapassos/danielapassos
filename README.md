@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋, I'm Dani Passos</h1>
 <h4 align="center">Building cool digital experiences.</h4>
 
-🛠️ Head of Developer Relations<br>
-💬 Ask me about startups, web3, AI, and media
+💬 Ask me about startups, Developer Relations, AI, and media
 <br>📫 Reach me: daniela@dnpmss.com
 
 ## Socials
