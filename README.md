@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Dani Passos</h1>
 <h4 align="center">Building cool digital experiences.</h4>
 
-💬 Ask me about startups, Developer Relations, AI, and media
+💬 Ask me about design, entrepreneurship, startups, AI, and media.
 <br>📫 Reach me: daniela@dnpmss.com
 
 ## Socials
