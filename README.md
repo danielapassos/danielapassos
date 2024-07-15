@@ -2,7 +2,6 @@
 <h4 align="center">Building cool digital experiences.</h4>
 
 💬 Ask me about design, entrepreneurship, startups, AI, and media.
-<br>📫 Reach me: daniela@dnpmss.com
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danipassos) 
