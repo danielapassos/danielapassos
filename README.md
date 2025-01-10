@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Dani Passos</h1>
 <h4 align="center">Building cool digital experiences.</h4>
 
-💬 Ask me about design, entrepreneurship, startups, AI, and media.
+💬 Ask me about product marketing, design, entrepreneurship, and media.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danipassos) 
