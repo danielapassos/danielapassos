@@ -1,6 +1,5 @@
-<h1 align="center">Hey 👋, I'm Dani Passos</h1>
-<h4 align="center">Building cool digital experiences.</h4>
-
+<h1 align="left">Hey, I'm Dani Passos</h1>
+<h6 align="left">I like building cool digital experiences.</h6>
 💬 Ask me about product marketing, design, entrepreneurship, and media.
 
 ## Socials
